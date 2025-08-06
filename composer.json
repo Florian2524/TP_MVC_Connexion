@@ -1,0 +1,11 @@
+{
+  "name": "afpa-learning/mvc-example",
+  "description": "Projet MVC PHP pour apprentissage",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
